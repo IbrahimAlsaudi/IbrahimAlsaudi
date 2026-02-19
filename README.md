@@ -1,6 +1,6 @@
 ![214122618-1bf43327-cdef-456e-81fe-fc71a9070c07](https://github.com/IbrahimAlsaudi/IbrahimAlsaudi/assets/94073274/ac5d69c6-8af2-4a67-8156-9edfb75fb9f4)
 <h1 align="center">Hi 👋, I'm Ibrahim Alsaudi</h1>
-<h3 align="center">CS student | Android development enthusiast</h3>
+<h3 align="center">Android development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimalsaudi&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimalsaudi" /> </p>
 
