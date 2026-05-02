@@ -12,9 +12,9 @@
 
 ### About Me
 
-Junior Android Developer based in Cairo, Egypt. I build offline-first Android apps with clean architecture, reactive data pipelines, and polished Material Design 3 UIs.
+Junior Android Developer based in Giza, Egypt. I build offline-first Android apps with clean architecture, reactive data pipelines, and polished Material Design 3 UIs.
 
-I completed **Android Basics with Compose** by Google and have since built two production-quality projects independently — focusing on understanding the *why* behind every tool, not just the *how*.
+I completed **Android Basics with Compose** by Google and have since built two projects — focusing on understanding the *why* behind every tool, not just the *how*.
 
 Currently open to **junior Android positions** in Egypt and remote.
 
@@ -56,7 +56,7 @@ Currently open to **junior Android positions** in Egypt and remote.
 - **WorkManager** for periodic rate sync and daily budget notifications
 - **DataStore** for user preferences · Full **Arabic RTL** localization · **Material Design 3**
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi/personal-expenses-tracker)
 
 ---
 
@@ -67,20 +67,11 @@ Currently open to **junior Android positions** in Egypt and remote.
 - `combine` merges search results and saved favourites into a single UI state
 - Search query persisted across sessions with **DataStore**
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi/flight-search-app)
 
 ---
 
 ### Currently Learning
 
-- **Hilt** — Dependency injection (next step after mastering manual DI)
+- **Hilt** — Dependency injection (next step after understanding manual DI)
 - **Unit Testing** — ViewModels and Repositories
-- **Sealed UiState** — Loading / Success / Error patterns
-
----
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimalsaudi&show_icons=true&locale=en&layout=compact&theme=default)
-
-</div>
