@@ -26,13 +26,17 @@ Currently open to **junior Android positions** in Egypt and remote.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Coil](https://img.shields.io/badge/Coil-black?style=flat-square&logo=android&logoColor=white)
 
 **Architecture & Data**
 ![MVVM](https://img.shields.io/badge/MVVM-grey?style=flat-square)
 ![Room](https://img.shields.io/badge/Room-grey?style=flat-square)
 ![Retrofit](https://img.shields.io/badge/Retrofit-grey?style=flat-square)
 ![DataStore](https://img.shields.io/badge/DataStore-grey?style=flat-square)
+![DataStore](https://img.shields.io/badge/DataStore-grey?style=flat-square)
 ![WorkManager](https://img.shields.io/badge/WorkManager-grey?style=flat-square)
+![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-grey?style=flat-square)
+![Hilt](https://img.shields.io/badge/Hilt-grey?style=flat-square)
 
 **Async & Reactive**
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
