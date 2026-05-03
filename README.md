@@ -55,10 +55,15 @@ Currently open to **junior Android positions** in Egypt and remote.
 #### 💰 Personal Finance Tracker
 > Offline-first finance management app with live currency exchange rates
 
-- **Room** for local transaction storage · **Retrofit** for live exchange rates cached in Room
+-**Archeticture** MVVM 
+- **Room** for local transaction storage ·
+-  **Retrofit** for live exchange rates cached in Room
 - Reactive search & filtering using `combine` + `flatMapLatest` — cancels redundant queries automatically
+- **Dependency Injection** Manual DI (master branch) and `Hilt` (hilt branch)
 - **WorkManager** for periodic rate sync and daily budget notifications
-- **DataStore** for user preferences · Full **Arabic RTL** localization · **Material Design 3**
+- **DataStore** for user preferences ·
+-  Full **Arabic RTL** localization ·
+-   **Material Design 3**
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi/personal-expenses-tracker)
 
@@ -67,9 +72,11 @@ Currently open to **junior Android positions** in Egypt and remote.
 #### ✈️ Flight Search App
 > Reactive flight search over a pre-populated Room database
 
+- **Archeticture** MVVM 
 - `flatMapLatest` cancels in-flight DB queries on every new input change
 - `combine` merges search results and saved favourites into a single UI state
 - Search query persisted across sessions with **DataStore**
+- **Dependency Injection** Manual DI
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi/flight-search-app)
 
