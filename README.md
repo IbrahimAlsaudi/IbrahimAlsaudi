@@ -33,7 +33,6 @@ Currently open to **junior Android positions** in Egypt and remote.
 ![Room](https://img.shields.io/badge/Room-grey?style=flat-square)
 ![Retrofit](https://img.shields.io/badge/Retrofit-grey?style=flat-square)
 ![DataStore](https://img.shields.io/badge/DataStore-grey?style=flat-square)
-![DataStore](https://img.shields.io/badge/DataStore-grey?style=flat-square)
 ![WorkManager](https://img.shields.io/badge/WorkManager-grey?style=flat-square)
 ![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-grey?style=flat-square)
 ![Hilt](https://img.shields.io/badge/Hilt-grey?style=flat-square)
