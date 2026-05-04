@@ -42,6 +42,8 @@ Currently open to **junior Android positions** in Egypt and remote.
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![StateFlow](https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JUnit4](https://img.shields.io/badge/JUnit4-25A162?style=flat-square&logo=android&logoColor=white)
+![Turbine](https://img.shields.io/badge/Turbine-25A162?style=flat-square&logo=android&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -64,6 +66,8 @@ Currently open to **junior Android positions** in Egypt and remote.
 - **DataStore** for user preferences ·
 -  Full **Arabic RTL** localization ·
 -   **Material Design 3**
+-  Unit tested ViewModels with `JUnit4` and `Turbine` — covering search, 
+  filtering, exchange rate toggling, and balance calculation
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi/personal-expenses-tracker)
 
