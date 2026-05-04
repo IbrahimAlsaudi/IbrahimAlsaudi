@@ -88,5 +88,4 @@ Currently open to **junior Android positions** in Egypt and remote.
 
 ### Currently Learning
 
-- **Hilt** — Dependency injection (next step after understanding manual DI)
-- **Unit Testing** — ViewModels and Repositories
+- **Paging3** — For Pagination
