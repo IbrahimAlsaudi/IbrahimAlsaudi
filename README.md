@@ -55,7 +55,8 @@ Currently open to **junior Android positions** in Egypt and remote.
 
 #### 💰 Personal Finance Tracker
 > Offline-first finance management app with live currency exchange rates
-
+> 
+> 🔀 Branch: [`hilt-migration`](https://github.com/IbrahimAlsaudi/personal-expenses-tracker/tree/hilt) — full migration from manual DI to Hilt
 -**Archeticture** MVVM 
 - **Room** for local transaction storage ·
 -  **Retrofit** for live exchange rates cached in Room
