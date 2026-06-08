@@ -83,9 +83,10 @@ Currently open to **junior Android positions** in Egypt and remote.
 - **Dependency Injection** Manual DI
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IbrahimAlsaudi/flight-search-app)
-
+<!--
 ---
 
 ### Currently Learning
 
 - **Paging3** — For Pagination
+-->
